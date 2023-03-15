@@ -24,7 +24,7 @@
 
 ## More features & demo
 
-- Extension details : https://www.magetop.com/magento-2-advanced-review-extension.html
+- Extension details : https://www.magetop.com/magento-2-product-360-view-extension.html
 - Layout 3D view demo : https://livedemo.magetop.com/product_3d_view
 - Magento 3D view demo : https://livedemo.magetop.com/product_360_view/goi-keo.html
 
