@@ -13,7 +13,7 @@
 - Play and Pause button auto-rotates the images.
 - Zoom in and out button right below the image.
 - Easy to view product image in Lightbox and Full-screen.
-- Display static images and spin on same product page..
+- Display static images and spin on same product page.
 - 3D spin (left-right and up-down).
 - Supports any number of photos..
 - Free support from us, the developers.
